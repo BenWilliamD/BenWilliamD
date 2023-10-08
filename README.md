@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenWilliamD
-- 👀 I’m interested in experiencing the world of coding and sports
+- 👀 I’m interested in experiencing the world of coding :)
 - 🌱 I’m currently learning HTML, CSS, JavaScrpt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
